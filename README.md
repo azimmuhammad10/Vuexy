@@ -1,3 +1,7 @@
+#Please install all the modules before proceeding with the build
+
+Run npm install
+
 # VuexyClone
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
