@@ -1,0 +1,8 @@
+.max-w-3xl {
+    max-width: 1320px; /* You can adjust this size */
+    flex:auto;
+  }
+  
+  .ml-auto {
+    margin-left: auto;
+  }
